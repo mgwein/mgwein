@@ -1,6 +1,22 @@
 # mgwein
  README
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mgwein" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mgwein?trk=profile-badge">Matt W.</a></div>
-              
+<!-- Greeting -->
+# Cheers! :rockon:
+
+<!--Introduction -->
+My name is Matt and I am University of Florida graduate studying Electrical & Computer Engineering - Singals & Systems.
+<br>
+
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/)
+
+<!-- Profile View Count -->
+![](https://komarev.com/ghpvc/?username=Matt%20W&style=flat)
+
+<p> <!-- GitHub README Stats -->
+  <a href="https://github.com/mgwein?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=mgwein&show_icons=true&theme=algolia&count_private=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgwein&layout=compact" />
