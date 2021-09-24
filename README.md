@@ -5,7 +5,7 @@
 # Cheers!
 
 <!--Introduction -->
-My name is Matt and I am University of Florida graduate studying Electrical & Computer Engineering - Singals & Systems.
+My name is Matt and I am a University of Florida graduate studying Electrical & Computer Engineering - Singals & Systems.
 <br>
 
 <!-- Your badges -->
