@@ -19,6 +19,8 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgwein&layout=compact" />
 
+</a>
+
 
  <!-- icons -->
 
@@ -57,5 +59,4 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 <!-- PYCHARM -->
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
 
-<br>
 </p>
