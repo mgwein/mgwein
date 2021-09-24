@@ -11,7 +11,7 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=mgwein&style=flat)
 
-### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Languages and Tools:
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/mgwein?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
@@ -43,4 +43,10 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
 
+<br>
+**Programming Languages**
+
+
+<img title="C" alt="C" width="50px" src="https://user-images.githubusercontent.com/53784551/112205746-4eee4b00-8c3f-11eb-99f1-1b3e1f7668d4.png">|<img title="C++" alt="C++" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">|<img title="PHP" alt="PHP" width="50px" src="https://user-images.githubusercontent.com/53784551/112204789-46494500-8c3e-11eb-9921-565ec89e8f9f.png" />|<img alt="JavaScript" title="JavaScript" width="50px" src="https://user-images.githubusercontent.com/53784551/112260814-dc0fbf00-8c94-11eb-9c86-40490c3c5b16.png">|<img title="Java" alt="Java" width="50px" src="https://user-images.githubusercontent.com/53784551/112207642-937ae600-8c41-11eb-8154-7dc58ca72bbf.png" />|<img title="Python" alt="Python" width="50px" src="https://user-images.githubusercontent.com/53784551/112206170-d20fa100-8c3f-11eb-8d12-d71b6d32bebf.png" />|<img title="MatLab" alt="MatLab" width="50px" src="https://user-images.githubusercontent.com/53784551/112208457-90ccc080-8c42-11eb-813e-4b1c2dabe550.png" />|<img title="Assembly" alt="Assembly" width="50px" src="https://user-images.githubusercontent.com/53784551/116347565-41178100-a80e-11eb-94da-3f08d89b0425.png" />
+|---|---|---|---|---|---|---|---|
 </p>
