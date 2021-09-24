@@ -19,7 +19,6 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgwein&layout=compact" />
 
-</a>
 
 **Programming Languages**
 
