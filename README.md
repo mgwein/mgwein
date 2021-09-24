@@ -1,6 +1,3 @@
-# mgwein
- README
-
 <!-- Greeting -->
 # Cheers!
 
