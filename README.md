@@ -15,7 +15,7 @@ My name is [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&l
 </p>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/)
+<!-- [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/) -->
 
 ### Programming Languages
 
@@ -37,7 +37,7 @@ My name is [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&l
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=mgwein&style=flat)
 
-### CONTACT
+### Contact
 ![](https://dcbadge.vercel.app/api/shield/410659937069301761)
 
               
