@@ -2,7 +2,7 @@
 # Cheers!
 
 <!--Introduction -->
-My name is Matt and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile: !!!
+My name is Matt and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
 <br>
 
 <!-- Your badges -->
