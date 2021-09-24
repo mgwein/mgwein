@@ -25,26 +25,22 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
  <!-- icons -->
 
  <!-- PYTHON -->
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
+<code><a href = "https://www.python.org/"><img height="40" src="https://user-images.githubusercontent.com/53784551/112206170-d20fa100-8c3f-11eb-8d12-d71b6d32bebf.png"></a></code>
 <code><img height="40" src="https://mshr-h.gallerycdn.vsassets.io/extensions/mshr-h/veriloghdl/1.5.0/1625293831214/Microsoft.VisualStudio.Services.Icons.Default" alt="VHDL"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/53784551/112205746-4eee4b00-8c3f-11eb-99f1-1b3e1f7668d4.png" alt="C Language"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
+
 <br>
- <!-- C# -->
-<code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code><code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
-<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/53784551/112208457-90ccc080-8c42-11eb-813e-4b1c2dabe550.png" alt="MATLAB"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/53784551/116347565-41178100-a80e-11eb-94da-3f08d89b0425.png" alt="ASM"></code>
+<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://user-images.githubusercontent.com/53784551/112260814-dc0fbf00-8c94-11eb-9c86-40490c3c5b16.png"></a></code>
+<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://user-images.githubusercontent.com/53784551/112214593-911c8a00-8c49-11eb-9db6-1d8428f98ada.png" alt="Android"></a></code>
 <br>
 
  <!-- VISUAL STUDIO -->
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-
- <!-- GITBASH -->
 <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-
- <!-- GIT SCM -->
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-
-<!-- PYCHARM -->
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
 
 </p>
