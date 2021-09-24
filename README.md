@@ -2,7 +2,7 @@
 # Cheers!
 
 <!--Introduction -->
-My name is [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/) and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
+My name is Matt and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
 <br>
 
 <p> <!-- GitHub README Stats -->
@@ -12,12 +12,10 @@ My name is [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&l
    <!-- <img width="30%" height="auto" align="right" alt="Matt's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgwein&layout=compact" />
 
-</a>
 </p>
 
-<br>
 <!-- Your badges -->
-<!-- [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/) -->
+[![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/)
 
 ### Programming Languages
 
