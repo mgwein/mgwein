@@ -12,6 +12,7 @@ My name is [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&l
    <!-- <img width="30%" height="auto" align="right" alt="Matt's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgwein&layout=compact" />
 
+</a>
 </p>
 
 <br>
