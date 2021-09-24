@@ -21,12 +21,6 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 
 </a>
 
-
- <!-- icons -->
-
- <!-- PYTHON -->
-<code><a href = "https://www.python.org/"><img height="40" src=""></a></code>
-
 <br>
 
 **Programming Languages**
