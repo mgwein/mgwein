@@ -30,8 +30,8 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 <img title="Visual Studio" alt="Visual Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />|<img title="Spyder" alt="Spyder" width="50px" src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png" />|<img title="GitBash" alt="GitBash" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />|<img title="PyCharm" alt="PyCharm" width="50px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
 |---|---|---|---|
 
-<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="https://mpng.subpng.com/20180604/tyo/kisspng-microchip-technology-integrated-circuits-chips-n-btech-inc-5b153b1d1b7233.8159212615281180451124.jpg" />|<img title="Digilent" alt="Digilent" width="50px" src="https://forum.digilentinc.com/uploads/monthly_2016_01/favicon.png.4cf7ea0b5cc877b4d59dc7edbd686f26.png.f761e8d769ce4fe5bba2cdfd62cfc31e.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="https://digilent.com/blog/wp-content/uploads/2018/01/waveforms-1.png" />
-|---|---|---|
+<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="https://mpng.subpng.com/20180604/tyo/kisspng-microchip-technology-integrated-circuits-chips-n-btech-inc-5b153b1d1b7233.8159212615281180451124.jpg" />|<img title="Digilent" alt="Digilent" width="50px" src="https://forum.digilentinc.com/uploads/monthly_2016_01/favicon.png.4cf7ea0b5cc877b4d59dc7edbd686f26.png.f761e8d769ce4fe5bba2cdfd62cfc31e.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="https://digilent.com/blog/wp-content/uploads/2018/01/waveforms-1.png" />|<img title="LTSpice" alt="LTSpice" width="50px" src="https://911electronic.com/wp-content/uploads/2020/11/LTSpice-logo.jpg" />
+|---|---|---|---|
 
 
 <!-- Profile View Count -->
