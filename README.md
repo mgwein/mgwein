@@ -2,7 +2,7 @@
  README
 
 <!-- Greeting -->
-# Cheers! :rockon:
+# Cheers!
 
 <!--Introduction -->
 My name is Matt and I am University of Florida graduate studying Electrical & Computer Engineering - Singals & Systems.
