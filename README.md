@@ -5,6 +5,15 @@
 My name is Matt and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
 <br>
 
+<p> <!-- GitHub README Stats -->
+  <a href="https://github.com/mgwein?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=mgwein&show_icons=true&theme=algolia&count_private=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="Matt's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgwein&layout=compact" />
+
+</p>
+
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/)
 
