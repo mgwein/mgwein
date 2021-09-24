@@ -2,7 +2,7 @@
 # Cheers!
 
 <!--Introduction -->
-My name is Matt and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
+My name is [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/) and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
 <br>
 
 <p> <!-- GitHub README Stats -->
@@ -36,31 +36,4 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=mgwein&style=flat)
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mgwein" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mgwein?trk=profile-badge">Matt W.</a></div>
-
-<div
-  class='LI-profile-badge'
-  data-version='v1'
-  data-size='medium'
-  data-locale='en_US'
-  data-type='horizontal'
-  data-theme='dark'
-  data-vanity='manavoza7'
->
-  <a
-    class='LI-simple-link'
-    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
-  >
-    Manav Oza
-  </a>
-</div>
-
- <script
-  type='text/javascript'
-  src='https://platform.linkedin.com/badges/js/profile.js'
-  async
-  defer
-></script>
               
