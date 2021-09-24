@@ -12,7 +12,7 @@ My name is Matt and I am University of Florida graduate studying Electrical & Co
 [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/)
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=Matt%20W&style=flat)
+![](https://komarev.com/ghpvc/?username=mgwein&style=flat)
 
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/mgwein?tab=repositories">
