@@ -17,9 +17,6 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/)
 
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=mgwein&style=flat)
-
 ### Programming Languages
 
 <img title="Python" alt="Python" width="50px" src="https://user-images.githubusercontent.com/53784551/112206170-d20fa100-8c3f-11eb-8d12-d71b6d32bebf.png" />|<img title="MatLab" alt="MatLab" width="50px" src="https://user-images.githubusercontent.com/53784551/112208457-90ccc080-8c42-11eb-813e-4b1c2dabe550.png" />|<img title="Assembly" alt="Assembly" width="50px" src="https://user-images.githubusercontent.com/53784551/116347565-41178100-a80e-11eb-94da-3f08d89b0425.png" />|<img title="VHDL" alt="VHDL" width="50px" src="https://mshr-h.gallerycdn.vsassets.io/extensions/mshr-h/veriloghdl/1.5.0/1625293831214/Microsoft.VisualStudio.Services.Icons.Default" />
@@ -35,3 +32,12 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 
 <img title="Microchip Studio" alt="Microchip Studio" width="50px" src="https://mpng.subpng.com/20180604/tyo/kisspng-microchip-technology-integrated-circuits-chips-n-btech-inc-5b153b1d1b7233.8159212615281180451124.jpg" />|<img title="Digilent" alt="Digilent" width="50px" src="https://forum.digilentinc.com/uploads/monthly_2016_01/favicon.png.4cf7ea0b5cc877b4d59dc7edbd686f26.png.f761e8d769ce4fe5bba2cdfd62cfc31e.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="https://digilent.com/blog/wp-content/uploads/2018/01/waveforms-1.png" />
 |---|---|---|
+
+
+<!-- Profile View Count -->
+![](https://komarev.com/ghpvc/?username=mgwein&style=flat)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mgwein" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mgwein?trk=profile-badge">Matt W.</a></div>
+              
