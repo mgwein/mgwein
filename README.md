@@ -22,7 +22,7 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 <img title="Python" alt="Python" width="50px" src="python.png" />|<img title="MatLab" alt="MatLab" width="50px" src="MATLAB.png" />|<img title="Assembly" alt="Assembly" width="50px" src="ASM.png" />|<img title="VHDL" alt="VHDL" width="50px" src="VHDL.png" />
 |---|---|---|---|
 
-<img title="C" alt="C" width="50px" src="C.png">|<img title="C++" alt="C++" width="50px" src="CSHARP.svg">|<img alt="JavaScript" title="JavaScript" width="50px" src="JAVASCRIPT.png">|<img title="Wolfram Mathematica" alt="Wolfram Mathematica" width="50px" src="WOLFRAM.png">
+<img title="C" alt="C" width="50px" src="C.png">|<img title="C++" alt="C++" width="50px" src="CPP.svg">|<img alt="JavaScript" title="JavaScript" width="50px" src="JAVASCRIPT.png">|<img title="Wolfram Mathematica" alt="Wolfram Mathematica" width="50px" src="WOLFRAM.png">
 |---|---|---|---|
 
 ### Tools
