@@ -35,6 +35,8 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 
 <img title="ASDF" alt="ASDF" width="50px" src="https://img.icons8.com/color/144/000000/python--v1.png" />
 
+<img title="ASDF" alt="ASDF" width="50px" src="https://img.icons8.com/color/144/000000/python--v2.png" />
+
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=mgwein&style=flat)
 
