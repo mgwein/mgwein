@@ -30,7 +30,7 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 <img title="Visual Studio" alt="Visual Studio" width="50px" src="VSCODE.png" />|<img title="Spyder" alt="Spyder" width="50px" src="SPYDER.png" />|<img title="GitBash" alt="GitBash" width="50px" src="BASH.png" />|<img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" />
 |---|---|---|---|
 
-<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.jfif" />|<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="LTSpice" alt="LTSpice" width="50px" src="Untitled.png" />
+<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="mc2.png" />|<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="LTSpice" alt="LTSpice" width="50px" src="Untitled.png" />
 |---|---|---|---|
 
 
