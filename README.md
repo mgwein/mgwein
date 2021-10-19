@@ -3,6 +3,9 @@
 
 <!--Introduction -->
 My name is Matt and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
+
+"I live my life one line of code at time" - Vin Silicon
+
 <br>
 
 <p> <!-- GitHub README Stats -->
