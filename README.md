@@ -47,3 +47,4 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 ### Contact
 ![](https://dcbadge.vercel.app/api/shield/410659937069301761)
               
+[![Spotify](https://novatorem-gules-two.vercel.app)](https://open.spotify.com/user/cattleman706)
