@@ -30,7 +30,7 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 
 ### Tools
 
-<img title="Visual Studio" alt="Visual Studio" width="50px" src="VSCODE.png" />|<img title="Spyder" alt="Spyder" width="50px" src="SPYDER.png" />|<img title="GitBash" alt="GitBash" width="50px" src="BASH.png" />|<img title="ECLIPSE" alt="ECLIPSE" width="50px" src="ECLIPSE.png" />
+<img title="Visual Studio" alt="Visual Studio" width="50px" src="VSCODE.png" />|<img title="Spyder" alt="Spyder" width="50px" src="SPYDER.png" />|<img title="GitBash" alt="GitBash" width="50px" src="BASH.png" />|<img title="Pytorch" alt="Pytorch" width="50px" src="pytorch.png" />
 |---|---|---|---|
 
 <img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.png" />|<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="HiPerGator3.0" alt="HiPerGator3.0" width="50px" src="HIPERGATOR3.png" />
@@ -38,6 +38,9 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 
 <img title="Solid Works" alt="Solid Works" width="50px" src="SOLIDWORKS.png" />|<img title="AutoCAD" alt="AutoCAD" width="50px" src="AUTOCAD.png" />|<img title="RISA3D" alt="RISA3D" width="50px" src="RISA3D.svg" />|<img title="LTSpice" alt="LTSpice" width="50px" src="LTSPICE.png" />
 |---|---|---|---|
+
+<img title="ECLIPSE" alt="ECLIPSE" width="50px" src="ECLIPSE.png" />
+|---|
 
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
 
