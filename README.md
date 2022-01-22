@@ -23,6 +23,8 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 
 </p>
 
+<br>
+
 ### Programming Languages
 
 <img title="Python" alt="Python" width="50px" src="python.png" />|<img title="MatLab" alt="MatLab" width="50px" src="MATLAB.png" />|<img title="Assembly" alt="Assembly" width="50px" src="ASM.png" />|<img title="VHDL" alt="VHDL" width="50px" src="VHDL.png" />
