@@ -8,21 +8,20 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 | M.Eng Signals & Systems, Machine Learning Certification @ University of Florida, ECE<br>
 | B.S. Civil & Coastal Engineering @ University of Florida, CCE<br>
 | Naval Engineering @ Virginia Tech, AOE<br>
-| Russian Language Certification @ Moscow State University
+| Russian Language Certification @ Moscow State University<br>
 
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/)
 <br>
 
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/mgwein?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+    <img width="500" height="auto" align="right" alt="Matts's GitHub stats" 
          src="https://github-readme-stats.vercel.app/api?username=mgwein&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Matt's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgwein&layout=compact" />
 
 </p>
-
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Matt%20W-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgwein/)
 
 ### Programming Languages
 
