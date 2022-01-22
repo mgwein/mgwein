@@ -5,8 +5,10 @@
 My name is Matt and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
 
 | PhD Student Cybernetics & AI @ University of Florida, ECE<br>
-| M.Eng Signals & Systems, Machine Learning @ University of Florida, ECE<br>
+| M.Eng Signals & Systems, Machine Learning Certification @ University of Florida, ECE<br>
+| Naval Engineering @ Virginia Tech, AOE<br>
 | B.S. Civil & Coastal Engineering @ University of Florida<br>
+| A.S. Physics & Engineering @ Case Western Reserve University<br>
 | Russian Language Certification @ Moscow State University
 
 <br>
