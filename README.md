@@ -4,7 +4,7 @@
 <!--Introduction -->
 My name is Matt and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
 
-"I live my life one line of code at time" - Vin Silicon
+PhD Student Cybernetics & AI @ University of Florida, ECE | M.Eng Signals & Systems, Machine Learning @ University of Florida, ECE | B.S. Civil & Coastal Engineering @ University of Florida | Russian Language Certification @ University of Moscow
 
 <br>
 
