@@ -2,7 +2,7 @@
 # Cheers!
 
 <!--Introduction -->
-My name is Matt and I am a graduate Electrical & Computer Engineer from the University of Florida :crocodile::crocodile:
+Electrical & Computer Engineering Graduate Researcher at the University of Florida :crocodile::crocodile:
 
 | PhD Student Cybernetics & AI @ University of Florida, ECE<br>
 | M.Eng Signals & Systems, Machine Learning Certification @ University of Florida, ECE<br>
