@@ -8,7 +8,7 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 | M.Eng Signals & Systems, Machine Learning Certification @ University of Florida, ECE<br>
 | B.S. Civil & Coastal Engineering @ University of Florida, CCE<br>
 | Naval Engineering @ Virginia Tech, AOE<br>
-| Russian Language Certification @ Moscow State University
+| Russian Language Certification @ Moscow State University<br>
 | Machine Learning Certification @ University of Florida
 
 <br>
