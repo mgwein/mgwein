@@ -46,7 +46,7 @@ My name is Matt and I am a graduate Electrical & Computer Engineer from the Univ
 <img title="ECLIPSE" alt="ECLIPSE" width="50px" src="ECLIPSE.png" />|<img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" />|<img title="TensorFlow" alt="TensorFlow" width="50px" src="TENSORFLOW.png" />|
 |---|---|---|---|
 
-<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.png" />|<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|
+<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.png" />|<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />||
 |---|---|---|---|
 
 
