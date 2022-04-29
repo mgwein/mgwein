@@ -5,7 +5,7 @@
 Electrical & Computer Engineering Graduate Researcher at the University of Florida :crocodile::crocodile:
 
 | PhD Student Cybernetics & AI @ University of Florida, ECE<br>
-| M.Eng Signals & Systems, Machine Learning Certification @ University of Florida, ECE<br>
+| M.Eng Signals & Systems, Machine Learning @ University of Florida, ECE<br>
 | B.S. Civil & Coastal Engineering @ University of Florida, CCE<br>
 | Naval Engineering @ Virginia Tech, AOE<br>
 | Russian Language Certification @ Moscow State University<br>
