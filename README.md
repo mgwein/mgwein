@@ -9,7 +9,7 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 | B.S. Civil & Coastal Engineering @ University of Florida, CCE<br>
 | Naval Engineering @ Virginia Tech, AOE<br>
 | Russian Language Certification @ Moscow State University<br>
-| Machine Learning Certification @ University of Florida
+| Machine Learning (ECE) Certified @ University of Florida
 
 <br>
 
