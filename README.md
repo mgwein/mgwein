@@ -47,8 +47,8 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 <img title="Solid Works" alt="Solid Works" width="50px" src="SOLIDWORKS.png" />|<img title="AutoCAD" alt="AutoCAD" width="50px" src="AUTOCAD.png" />|<img title="RISA3D" alt="RISA3D" width="50px" src="RISA3D.svg" />|<img title="LTSpice" alt="LTSpice" width="50px" src="LTSPICE.png" />
 |---|---|---|---|
 
-<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|
-|---|---|
+<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="ENVI" alt="ENVI" width="50px" src="ENVI.png" />|<img title="IDL" alt="IDL" width="50px" src="IDL.png" />
+|---|---|---|---|
 
 
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
