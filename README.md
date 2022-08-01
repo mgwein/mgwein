@@ -33,9 +33,12 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 <img title="C" alt="C" width="50px" src="C.png">|<img title="C++" alt="C++" width="50px" src="CPP.svg">|<img alt="JavaScript" title="JavaScript" width="50px" src="JAVASCRIPT.png">|<img title="Wolfram Mathematica" alt="Wolfram Mathematica" width="50px" src="WOLFRAM.png">
 |---|---|---|---|
 
+<img title="Bash" alt="Bash" width="50px" src="BASH.png" />|
+|---|
+
 ### Tools
 
-<img title="Visual Studio" alt="Visual Studio" width="50px" src="VSCODE.png" />|<img title="Spyder" alt="Spyder" width="50px" src="SPYDER.png" />|<img title="GitBash" alt="GitBash" width="50px" src="BASH.png" />|<img title="Pytorch" alt="Pytorch" width="50px" src="pytorch.png" />
+<img title="Visual Studio" alt="Visual Studio" width="50px" src="VSCODE.png" />|<img title="Spyder" alt="Spyder" width="50px" src="SPYDER.png" />|<img title="Vim" alt="Vim" width="50px" src="VIM.png" />|<img title="Pytorch" alt="Pytorch" width="50px" src="pytorch.png" />
 |---|---|---|---|
 
 <img title="TensorFlow" alt="TensorFlow" width="50px" src="TENSORFLOW.png" />|<img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" />|<img title="ECLIPSE" alt="ECLIPSE" width="50px" src="ECLIPSE.png" />|<img title="HiPerGator3.0" alt="HiPerGator3.0" width="50px" src="HIPERGATOR3.png" />
@@ -52,6 +55,9 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 
 <img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="ENVI" alt="ENVI" width="50px" src="ENVI.png" />|<img title="IDL" alt="IDL" width="50px" src="IDL.png" />
 |---|---|---|---|
+
+<img title="TMUX" alt="TMUX" width="50px" src="TMUX.png" />|
+|---|
 
 
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
