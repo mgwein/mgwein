@@ -59,9 +59,6 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 <img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX2.png" />|<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX3.png" />|<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX4.png" />|<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX5.png" />
 |---|---|---|---|
 
-<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX6.png" />
-|---|
-
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
 
 <!-- Profile View Count -->
