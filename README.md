@@ -56,7 +56,7 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 <img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="ENVI" alt="ENVI" width="50px" src="ENVI.png" />|<img title="IDL" alt="IDL" width="50px" src="IDL.png" />
 |---|---|---|---|
 
-<img title="TMUX" alt="TMUX" width="50px" src="TMUX2.png" />|
+<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX2.png" />|
 |---|
 
 
