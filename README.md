@@ -33,8 +33,8 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 <img title="C" alt="C" width="50px" src="C.png">|<img title="C++" alt="C++" width="50px" src="CPP.svg">|<img alt="JavaScript" title="JavaScript" width="50px" src="JAVASCRIPT.png">|<img title="Wolfram Mathematica" alt="Wolfram Mathematica" width="50px" src="WOLFRAM.png">
 |---|---|---|---|
 
-<img title="Bash" alt="Bash" width="50px" src="BASH.png" />|
-|---|
+<img title="APACHE SPARK" alt="APACHE SPARK" width="50px" src="APACHESPARK.png" />|<img title="Bash" alt="Bash" width="50px" src="BASH.png" />|
+|---|---|
 
 ### Tools
 
@@ -47,8 +47,8 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 <img title="YOLO" alt="YOLO" width="50px" src="YOLO.png" />|<img title="Darknet" alt="Darknet" width="50px" src="DARKNET2.png" />|<img title="OpenCV" alt="OpenCV" width="50px" src="OPENCV.png" />|<img title="UNREAL" alt="UNREAL" width="50px" src="UNREAL.png" />|
 |---|---|---|---|
 
-<img title="LINUX" alt="LINUX" width="50px" src="LINUX.png" />|<img title="EC2" alt="EC2" width="50px" src="EC2.png" />|<img title="APACHE SPARK" alt="APACHE SPARK" width="50px" src="APACHESPARK.png" />|<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.png" />
-|---|---|---|---|
+<img title="LINUX" alt="LINUX" width="50px" src="LINUX.png" />|<img title="EC2" alt="EC2" width="50px" src="EC2.png" />|<img title="DATABRICKS" alt="DATABRICKS" width="50px" src="DATABRICKS2.png" />|<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.png" />
+|---|---|---|---||<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.png" />|
 
 <img title="Solid Works" alt="Solid Works" width="50px" src="SOLIDWORKS.png" />|<img title="AutoCAD" alt="AutoCAD" width="50px" src="AUTOCAD.png" />|<img title="RISA3D" alt="RISA3D" width="50px" src="RISA3D.svg" />|<img title="LTSpice" alt="LTSpice" width="50px" src="LTSPICE.png" />
 |---|---|---|---|
