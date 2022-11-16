@@ -44,7 +44,7 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 <img title="TensorFlow" alt="TensorFlow" width="50px" src="TENSORFLOW.png" />|<img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" />|<img title="ECLIPSE" alt="ECLIPSE" width="50px" src="ECLIPSE.png" />|<img title="HiPerGator3.0" alt="HiPerGator3.0" width="50px" src="HIPERGATOR3.png" />
 |---|---|---|---|
 
-<img title="YOLO" alt="YOLO" width="50px" src="YOLO.png" />|<img title="Darknet" alt="Darknet" width="50px" src="DARKNET2.png" />|<img title="OpenCV" alt="OpenCV" width="50px" src="OPENCV.png" />|<img title="UNREAL" alt="UNREAL" width="50px" src="UNREAL.png" />|
+<img title="YOLO" alt="YOLO" width="50px" src="YOLO.png" />|<img title="Darknet" alt="Darknet" width="50px" src="DARKNET2.png" />|<img title="OpenCV" alt="OpenCV" width="50px" src="OPENCV.png" />|<img title="UNREAL" alt="UNREAL" width="50px" src="UNREAL2.png" />|
 |---|---|---|---|
 
 <img title="LINUX" alt="LINUX" width="50px" src="LINUX.png" />|<img title="EC2" alt="EC2" width="50px" src="EC2.png" />|<img title="DATABRICKS" alt="DATABRICKS" width="50px" src="DATABRICKS2.png" />|<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.png" />
