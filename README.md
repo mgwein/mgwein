@@ -2,10 +2,11 @@
 # Cheers!
 
 <!--Introduction -->
-Electrical & Computer Engineering Graduate Researcher at the University of Florida :crocodile::crocodile:
+All things engineering at the University of Florida! :crocodile::crocodile:
 
+| Sr. Avionics & Software Engineer at Piper Aircraft
 | PhD Student Cybernetics & AI @ University of Florida, ECE<br>
-| M.Eng Signals & Systems, Machine Learning @ University of Florida, ECE<br>
+| M.S. Electrical & Computer Engineering @ University of Florida, ECE<br>
 | B.S. Civil & Coastal Engineering @ University of Florida, CCE<br>
 | Naval Engineering @ Virginia Tech, AOE<br>
 | Russian Language Certification @ Moscow State University<br>
