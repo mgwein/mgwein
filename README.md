@@ -4,7 +4,7 @@
 <!--Introduction -->
 All things engineering at the University of Florida! :crocodile::crocodile:
 
-| Sr. Avionics & Software Engineer at Piper Aircraft
+| Sr. Avionics & Software Engineer at Piper Aircraft<br>
 | PhD Student Cybernetics & AI @ University of Florida, ECE<br>
 | M.S. Electrical & Computer Engineering @ University of Florida, ECE<br>
 | B.S. Civil & Coastal Engineering @ University of Florida, CCE<br>
