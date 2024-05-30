@@ -50,14 +50,14 @@ Electrical & Computer Engineering Graduate Researcher at the University of Flori
 <img title="LINUX" alt="LINUX" width="50px" src="LINUX.png" />|<img title="EC2" alt="EC2" width="50px" src="EC2.png" />|<img title="DATABRICKS" alt="DATABRICKS" width="50px" src="DATABRICKS2.png" />|<img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.png" />
 |---|---|---|---|
 
-<img title="Solid Works" alt="Solid Works" width="50px" src="SOLIDWORKS.png" />|<img title="AutoCAD" alt="AutoCAD" width="50px" src="AUTOCAD.png" />|<img title="RISA3D" alt="RISA3D" width="50px" src="RISA3D.svg" />|<img title="LTSpice" alt="LTSpice" width="50px" src="LTSPICE.png" />
+<img title="Solid Works" alt="Solid Works" width="50px" src="SOLIDWORKS.png" />|<img title="AutoCAD" alt="AutoCAD" width="50px" src="AUTOCAD.png" />|<img title="Siemens NX" alt="Siemens NX" width="50px" src="NX.png" />|<img title="Siemens Teamcenter" alt="Siemens Teamcenter" width="50px" src="TC.png" />
 |---|---|---|---|
 
-<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="ENVI" alt="ENVI" width="50px" src="ENVI.png" />|<img title="IDL" alt="IDL" width="50px" src="IDL.png" />
+<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="RISA3D" alt="RISA3D" width="50px" src="RISA3D.svg" />|<img title="LTSpice" alt="LTSpice" width="50px" src="LTSPICE.png" />
 |---|---|---|---|
 
-<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX3.png" />|
-|---|
+<img title="ENVI" alt="ENVI" width="50px" src="ENVI.png" />|<img title="IDL" alt="IDL" width="50px" src="IDL.png" />|<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX3.png" />|
+|---|---|---|
 
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
 
