@@ -57,7 +57,7 @@ All things engineering at the University of Florida! :crocodile::crocodile:
 <img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="RISA3D" alt="RISA3D" width="50px" src="RISA3D.svg" />|<img title="LTSpice" alt="LTSpice" width="50px" src="LTSPICE.png" />
 |---|---|---|---|
 
-<img title="ENVI" alt="ENVI" width="50px" src="ENVI.png" />|<img title="IDL" alt="IDL" width="50px" src="IDL.png" />|<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX3.png" />|
+<img title="XILINX" alt="XILINX" width="50px" src="XILINX.png" />|<img title="ENVI" alt="ENVI" width="50px" src="ENVI.png" />|<img title="IDL" alt="IDL" width="50px" src="IDL.png" />|<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX3.png" />|
 |---|---|---|
 
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
