@@ -58,7 +58,7 @@ All things engineering at the University of Florida! :crocodile::crocodile:
 |---|---|---|---|
 
 <img title="XILINX" alt="XILINX" width="50px" src="XILINX.png" />|<img title="ENVI" alt="ENVI" width="50px" src="ENVI.png" />|<img title="IDL" alt="IDL" width="50px" src="IDL.png" />|<img title="TMUX 😁" alt="TMUX 😁" width="50px" src="TMUX3.png" />|
-|---|---|---|
+|---|---|---|---|
 
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
 
