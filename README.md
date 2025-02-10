@@ -70,10 +70,12 @@ All things engineering at the University of Florida! :crocodile::crocodile:
 [![Spotify](https://gitspotify-mgwein.vercel.app/api/spotify)](https://open.spotify.com/user/cattleman706)
 
 <!-- Windy Widget -->
-<div
-    data-windywidget="forecast"
-    data-thememode="white"
-    data-spotid="5105683"
-    data-appid="1fa17a92a0781187c5828ce3c74defd2">
-</div>
-<script async="true" data-cfasync="false" type="text/javascript" src="https://windy.app/widgets-code/forecast/windy_forecast_async.js?v153"></script>
+<!-- Windy Widget -->
+<iframe 
+  src="https://windy.app/widget?spotId=5105683&theme=white" 
+  width="100%" 
+  height="400" 
+  frameborder="0" 
+  scrolling="no">
+</iframe>
+
