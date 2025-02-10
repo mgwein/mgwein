@@ -20,6 +20,7 @@ All things engineering at the University of Florida! :crocodile::crocodile:
          src="https://github-readme-stats.vercel.app/api?username=mgwein&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Matt's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgwein&layout=compact" />
+
 </p>
 
 <!-- Your badges -->
@@ -68,14 +69,3 @@ All things engineering at the University of Florida! :crocodile::crocodile:
 ![](https://dcbadge.vercel.app/api/shield/410659937069301761)
               
 [![Spotify](https://gitspotify-mgwein.vercel.app/api/spotify)](https://open.spotify.com/user/cattleman706)
-
-<!-- Windy Widget -->
-<!-- Windy Widget -->
-<iframe 
-  src="https://windy.app/widget?spotId=5105683&theme=white" 
-  width="100%" 
-  height="400" 
-  frameborder="0" 
-  scrolling="no">
-</iframe>
-
