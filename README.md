@@ -62,15 +62,6 @@ All things engineering at the University of Florida! :crocodile::crocodile:
 
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
 
-<div
-    data-windywidget="forecast"
-    data-thememode="white"
-    data-tempunit="F"
-    data-spotid="395499"
-    data-appid="widgets_233e53083b">
-</div>
-<script async="true" data-cfasync="false" type="text/javascript" src="https://windy.app/widgets-code/forecast/windy_forecast_async.js?v153"></script>
-
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=mgwein&style=flat)
 
